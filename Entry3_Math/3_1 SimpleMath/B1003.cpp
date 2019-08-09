@@ -39,7 +39,7 @@ int main()
         if (pn != 1 || tn != 1 || others > 0 || tloc - ploc <= 1) //P T 个数不为 1, 有其他字符, P左T右中间有字符
         {
             printf("NO\n");
-            continue;
+            continue; 
         }
 
         int x = ploc, y = tloc - ploc - 1, z = len - tloc - 1;
