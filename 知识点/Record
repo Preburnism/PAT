@@ -10,3 +10,10 @@ map<string, set<int>> book
     查找set中的元素需要指针*it
 
 结构体链表等问题需注意存在无效结点
+
+Shift + Alt+ A 注释整块代码
+Ctrl + / 行注释
+Ctrl + Shift + L 同时更改相同单词
+Ctrl + Shift + [ 隐藏代码块 +] 展开
+Ctrl + \ 分屏
+Ctrl + Tab 切换已打开的文件
